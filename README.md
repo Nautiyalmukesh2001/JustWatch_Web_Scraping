@@ -47,3 +47,11 @@ This project demonstrates how to scrape movie and TV show data from [JustWatch](
 
 Before running the project, install the necessary libraries. You can do this in your Colab environment or your local environment by running:
 
+## Author
+
+* Mukesh Nautiyal
+* LinkedIn: [https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/]
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
