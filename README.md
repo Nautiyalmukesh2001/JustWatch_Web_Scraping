@@ -47,10 +47,3 @@ This project demonstrates how to scrape movie and TV show data from [JustWatch](
 
 Before running the project, install the necessary libraries. You can do this in your Colab environment or your local environment by running:
 
-```bash
-!pip install selenium beautifulsoup4 pandas
-
-
-## Author:
-Mukesh Nautiyal
-
